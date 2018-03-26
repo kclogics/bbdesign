@@ -1,0 +1,25 @@
+body {
+    background-color: lightgrey;
+    margin: 0;
+}
+
+ /* .............................................................................. */
+#b {
+
+}
+
+#status1keyframe {
+    position: absolute;
+    width: 0%;
+    height: 5px;
+    background-color: red;
+    animation-name: example;
+    animation-duration: 4s;
+    padding-right: 0px;
+}
+
+@keyframes example {
+    from {padding-right: 0px;}
+    to {padding-right: 100px;}
+  }
+
