@@ -30,7 +30,7 @@
     "npm-run-all": "^4.1.2",
     "nuka-carousel": "^3.0.1",
     "path": "^0.12.7",
-    "radium": "^0.19.6",
+    "radium": "^0.23.0",
     "react": "^16.1.1",
     "react-dom": "^16.1.1",
     "react-fontawesome": "^1.6.1",
