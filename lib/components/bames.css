@@ -1,10 +1,11 @@
 body {
-    background-color: lightgrey;
+    background-color: white;
     margin: 0;
+     overflow: hidden;
 }
 
  /* .............................................................................. */
-#b {
+/* #b {
 
 }
 
@@ -21,5 +22,5 @@ body {
 @keyframes example {
     from {padding-right: 0px;}
     to {padding-right: 100px;}
-  }
+  } */
 
