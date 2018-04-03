@@ -23,3 +23,8 @@ git branch -a
 git remote show
 git remote prune origin
 git branch -rd origin/whatever
+
+
+------------------------------------------------------------------------------
+
+git push -u origin master

@@ -26,6 +26,9 @@ const config = {
     gaming: ['babel-polyfill', './lib/renderes/gamedom.js'],
     webone: ['babel-polyfill', './lib/renderes/web1dom.js'],
     bamesweb: ['babel-polyfill', './lib/renderes/bamesdom.js'],
+    bameswebwork: ['babel-polyfill', './lib/renderes/bamesworkdom.js'],
+    bameswebabout: ['babel-polyfill', './lib/renderes/bamesaboutdom.js'],
+
 
 
 
